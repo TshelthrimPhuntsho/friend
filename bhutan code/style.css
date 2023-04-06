@@ -1,0 +1,31 @@
+
+
+@font-face {
+    font-family: "Raleway Medium";
+    src: url("/resources/fonts/Raleway-Medium.ttf");
+}
+
+body {
+    background-color: lightblue;
+}
+
+.card {
+    background-color: white;
+    width: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 3px solid gray;
+    border-radius: 8px;
+}
+
+p {
+    font-family: "Raleway Medium", sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    background-color: lightskyblue;
+    padding: 30px;
+    box-sizing: border-box;
+}
